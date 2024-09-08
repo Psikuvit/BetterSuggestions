@@ -1,0 +1,8 @@
+name: BetterSuggestions
+version: '1.0'
+main: me.psikuvit.betterSuggestions.BSPlugin
+api-version: '1.13'
+
+commands:
+  view:
+  suggest:
